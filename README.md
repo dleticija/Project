@@ -37,7 +37,11 @@ following functions:
 To generate your own experiment, you can choose different values for 
 text length `n`, pattern length `m`, number of patterns `length` and alphabet `sigma`;
 
-Then run the function ```python SetupNaive(sigma, n, m, length)``` to generate a list containing 
+Then run the function 
+```python 
+SetupNaive(sigma, n, m, length)
+``` 
+to generate a list containing 
 the number of iterations it took to find all occurences of each pattern in 
 the random text (call it `random_iterations`), as well as the expected value of such 
 comparisons (call it `expected`);
@@ -57,7 +61,7 @@ Experiment 2
 To reproduce the plots, scroll down to the section 
 "Reproducing the results for experiment 2", and uncomment the following function:
 
-*
+* to make the comparison plot between Boyer-Moore and Boyer-Moore-Hospool:
 ```python 
 GeneratePlotBM(iterations_BM, iterations_BMH, x_lab2, y_lab2, title2, subtitle2)
 ```
