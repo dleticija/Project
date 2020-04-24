@@ -59,9 +59,8 @@ mean and the expected value curves.
 Experiment 2
 -------------
 To reproduce the plots, scroll down to the section 
-"Reproducing the results for experiment 2", and uncomment the following function:
+"Reproducing the results for experiment 2", and uncomment the following function
 
-* to make the comparison plot between Boyer-Moore and Boyer-Moore-Hospool:
 ```python 
 GeneratePlotBM(iterations_BM, iterations_BMH, x_lab2, y_lab2, title2, subtitle2)
 ```
