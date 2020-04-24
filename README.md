@@ -1,4 +1,4 @@
-This file contains instructions on how to use the file "experiments.py".
+This file contains instructions on how to use the file [experiments.py].
 
 Other two files, namely "book-war-and-peace.txt" and "words.txt" found in
 the repository are taken from two open GitHub repositories.
