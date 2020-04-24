@@ -1,6 +1,14 @@
 This file contains instructions on how to use the file "experiments.py".
 
-Currently the file reproduces the experiments found in 
+Other two files, namely "book-war-and-peace.txt" and "words.txt" found in
+the repository are taken from two open GitHub repositories.
+
+File "words.txt" is taken from https://gist.github.com/deekayen/4148741 ;
+
+File "book-war-and-peace.txt" is taken from
+https://github.com/mmcky/nyu-econ-370/blob/master/notebooks/data/book-war-and-peace.txt ;
+
+Currently the file "experiments.py" reproduces the experiments found in 
 * Section 3.2 Brute-Force empirical evidence for random strings (experiment 1)
 * Section 3.6 Boyer-Moore and Boyer-Moore-Horspool empirical comparison (experiment 2)
 
