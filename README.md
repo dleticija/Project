@@ -2,9 +2,9 @@ Substring Searching Algorithms - Experiments
 --------------------------------------------
 This file contains instructions on how to use the file [experiments.py](experiments.py).
 
-Other two files, namely [book text file](book-war-and-peace.txt) and [words text file](words.txt) 
-found in the repository are taken from two open GitHub repositories. Word text file is acquired from [David Norman's GitHub repository](https://gist.github.com/deekayen/4148741), and
-book text file is taken from [Luciano Ramalho's GitHub repository](https://github.com/fluentpython/example-code/blob/master/attic/sequences/war-and-peace.txt).
+The other files are taken from open source GitHub repositories. These are
+* [words text file](words.txt) is taken from [David Norman's GitHub repository](https://gist.github.com/deekayen/4148741);
+* [book text file](book-war-and-peace.txt) is taken from [Luciano Ramalho's GitHub repository](https://github.com/fluentpython/example-code/blob/master/attic/sequences/war-and-peace.txt).
 
 Currently the [experiments file](experiments.py) reproduces the experiments found in 
 * Section 3.2 Brute-Force empirical evidence for random strings (experiment 1);
