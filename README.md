@@ -9,8 +9,8 @@ Word text file is acquired from [David Norman's GitHub repository](https://gist.
 book text file is taken from [Luciano Ramalho's GitHub repository](https://github.com/fluentpython/example-code/blob/master/attic/sequences/war-and-peace.txt).
 
 Currently the [experiments file](experiments.py) reproduces the experiments found in 
-* Section 3.2 Brute-Force empirical evidence for random strings (experiment 1)
-* Section 3.6 Boyer-Moore and Boyer-Moore-Horspool empirical comparison (experiment 2)
+* Section 3.2 Brute-Force empirical evidence for random strings (experiment 1);
+* Section 3.6 Boyer-Moore and Boyer-Moore-Horspool empirical comparison (experiment 2).
 
 Experiment 1
 -------------
